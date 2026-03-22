@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About me
+## 👤 About me
 
 Backend developer with **4 years of experience**, specialized in the **.NET** ecosystem and cloud architectures on **Azure**. My main stack revolves around C#, ASP.NET Core and Angular — building everything from robust APIs to complex integrations with cloud services.
 
@@ -13,7 +13,7 @@ Backend developer with **4 years of experience**, specialized in the **.NET** ec
 
 ## 🛠️ Main stack
 
-### Backend
+### 🔧 Backend
 
 <img src="https://skillicons.dev/icons?i=cs" height="20"/> &nbsp; **C# — .NET 6 / 7 / 8 / 9+**  
 <img src="https://skillicons.dev/icons?i=dotnet" height="20"/> &nbsp; **.NET Framework 4.8**  
@@ -23,20 +23,20 @@ Backend developer with **4 years of experience**, specialized in the **.NET** ec
 <img src="https://skillicons.dev/icons?i=spring" height="20"/> &nbsp; **Spring Framework**  
 <img src="https://skillicons.dev/icons?i=expressjs" height="20"/> &nbsp; **ExpressJS**
 
-### Frontend
+### 💻 Frontend
 
 <img src="https://skillicons.dev/icons?i=angular" height="20"/> &nbsp; **Angular 12 onwards**  
 <img src="https://skillicons.dev/icons?i=react" height="20"/> &nbsp; **React (A little)**  
 <img src="https://skillicons.dev/icons?i=ts" height="20"/> &nbsp; **TypeScript**  
 <img src="https://skillicons.dev/icons?i=js" height="20"/> &nbsp; **JavaScript**
 
-### Cloud & Integrations
+### ☁️ Cloud & Integrations
 
 <img src="https://skillicons.dev/icons?i=azure" height="20"/> &nbsp; **Azure — App Services · Functions · Logic Apps · SQL · Cosmos DB · Blob Storage**
 
 ---
 
-## Looking
+## 🔭 Looking
 
 > Technologies I'm exploring and want to learn
 
