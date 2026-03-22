@@ -26,7 +26,7 @@ Backend developer with **4 years of experience**, specialized in the **.NET** ec
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=angular" height="20"/> &nbsp; **Angular 12 onwards**  
-<img src="https://skillicons.dev/icons?i=react" height="20"/> &nbsp; **React (Not too much)**  
+<img src="https://skillicons.dev/icons?i=react" height="20"/> &nbsp; **React (A little)**  
 <img src="https://skillicons.dev/icons?i=ts" height="20"/> &nbsp; **TypeScript**  
 <img src="https://skillicons.dev/icons?i=js" height="20"/> &nbsp; **JavaScript**
 
